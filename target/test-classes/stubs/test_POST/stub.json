@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/api/v1/create"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hello POST world!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/v1/employees"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hello world!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
